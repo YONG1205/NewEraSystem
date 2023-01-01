@@ -1,0 +1,1 @@
+if (a != "left" && a != "Left" )
